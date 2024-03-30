@@ -1,4 +1,0 @@
-covid infor-https://www.unicef.org/rosa/media/15786/file/Impact%20of%20the%20COVID-19%20crisis%20on%20households%20in%20Sri%20Lanka.pdf
-covid data-https://github.com/owid/covid-19-data/tree/master/public/data
-climate,altitude data- https://open-meteo.com/en/docs/climate-api
-weather,pollution- https://openweathermap.org/api/one-call-3
