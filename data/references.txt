@@ -1,4 +1,6 @@
 covid infor-https://www.unicef.org/rosa/media/15786/file/Impact%20of%20the%20COVID-19%20crisis%20on%20households%20in%20Sri%20Lanka.pdf
-covid data-https://github.com/owid/covid-19-data/tree/master/public/data
+covid data-https://github.com/owid/covid-19-data/tree/master/public/data (Edouard Mathieu, Hannah Ritchie, Lucas Rodés-Guirao, Cameron Appel, Charlie Giattino, Joe Hasell, Bobbie Macdonald, Saloni Dattani, Diana Beltekian, Esteban Ortiz-Ospina and Max Roser (2020) - "Coronavirus Pandemic (COVID-19)". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/coronavirus' [Online Resource])
 climate,altitude data- https://open-meteo.com/en/docs/climate-api
 weather,pollution- https://openweathermap.org/api/one-call-3
+kurunegala information :https://www.linkedin.com/pulse/why-kurunegala-success-story-ceylonbrandhouse/
+remving HCHO: https://www.dyson.com.au/newsroom/updates/what-is-formaldehyde#:~:text=Regular%20ventilation%20can%20help%20to,cooler%20air%20in%20the%20home.
